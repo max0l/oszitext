@@ -13,8 +13,13 @@ To use a adruino as an DAC we needed an R-2R Ladder. This Idea came from this Pr
 > -- trevor-makes
 
 
-This is our schematic:
+##This is our schematic:
+
 ![](pictures/schematic.png)
+
+##This is the real world Product:
+![](pictures/PXL_20230504_170240578.MP.jpg)
+
 
 To create the text we used the Idea of this Project: https://electronoobs.com/eng_arduino_tut63.php
 
