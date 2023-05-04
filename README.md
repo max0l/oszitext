@@ -13,6 +13,8 @@ To use a adruino as an DAC we needed an R-2R Ladder. This Idea came from this Pr
 > -- trevor-makes
 
 
+To write faster to the pins on the Adruino Uno we wrote a 6 Bit vector directly to the pins which is explained here: https://hartmut-waller.info/arduinoblog/portmanipulation/
+
 ## This is our schematic:
 
 ![](pictures/schematic.png)
