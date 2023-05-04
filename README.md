@@ -9,8 +9,8 @@ So we came to the Idea of using a Adruino as an DAC.
 
 To use a adruino as an DAC we needed an R-2R Ladder. This Idea came from this Project: [avr-binary-weighted-dac](https://github.com/trevor-makes/avr-binary-weighted-dac)
 
-"A binary-weighted DAC is a simple method for transforming multiple digital outputs into a single analog output using only resistors. The resistors are chosen from a power-of-two sequence, with the largest resistor tied to the least-significant bit and the smallest resistor tied to the most-significant bit."
-- trevor-makes
+>"A binary-weighted DAC is a simple method for transforming multiple digital outputs into a single analog output using only resistors. The resistors are chosen from a >power-of-two sequence, with the largest resistor tied to the least-significant bit and the smallest resistor tied to the most-significant bit."
+> -- trevor-makes
 
 
 This is our schematic:
