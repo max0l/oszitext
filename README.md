@@ -13,11 +13,11 @@ To use a adruino as an DAC we needed an R-2R Ladder. This Idea came from this Pr
 > -- trevor-makes
 
 
-##This is our schematic:
+## This is our schematic:
 
 ![](pictures/schematic.png)
 
-##This is the real world Product:
+## This is the real world Product:
 ![](pictures/PXL_20230504_170240578.MP.jpg)
 
 
