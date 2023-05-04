@@ -2,7 +2,7 @@
 #define y PORTC
 #define x PORTB
 
-//MAX
+//MAX(*4)
 //#define how_many_vertices 15
 //byte x_axis[how_many_vertices] = {1, 1, 2, 3, 3, 4, 5, 6, 7, 8, 7, 8, 9, 8, 9};
 //byte y_axis[how_many_vertices] = {1,3,2,3,1,1,3,1,1,2,3,2,3,2,1};
