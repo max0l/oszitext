@@ -1,6 +1,6 @@
 # oszitext
 
-This is a little project that was created while wokring in the Labs of the HTWK. 
+This is a little project that was created while working in the Labs of the HTWK. 
 
 The main Idea was to print Text on an Oscilloscope. To archive that we wanted to use the B15 board first, but this is not possible duo Firmware/Driver restrictions.
 
